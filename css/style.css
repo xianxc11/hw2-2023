@@ -8,6 +8,7 @@ body {
 h1{
     text-align: center;
     font-size: 42px;
+    padding: 15px;
 }
 
 h2 {
@@ -80,7 +81,7 @@ div {
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-top-width: 2px;
